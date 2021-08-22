@@ -1,0 +1,5 @@
+C:\Users\admin\documents\visual studio 2012\Projects\FriendsApplication\FriendsApplication\bin\FriendsApplication.dll
+C:\Users\admin\documents\visual studio 2012\Projects\FriendsApplication\FriendsApplication\bin\FriendsApplication.pdb
+C:\Users\admin\documents\visual studio 2012\Projects\FriendsApplication\FriendsApplication\obj\Debug\FriendsApplication.dll
+C:\Users\admin\documents\visual studio 2012\Projects\FriendsApplication\FriendsApplication\obj\Debug\FriendsApplication.pdb
+C:\Users\admin\documents\visual studio 2012\Projects\FriendsApplication\FriendsApplication\obj\Debug\FriendsApplication.csprojResolveAssemblyReference.cache
